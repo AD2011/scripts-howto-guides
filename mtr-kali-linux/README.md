@@ -1,5 +1,5 @@
 ## kali-linux mtr GUI Open Problem:	
-#If you want to use cli mtr in kali-linux but by default mtr gui opens. Files extracted form Ubuntu 22.04
+# If you want to use cli mtr in kali-linux but by default mtr gui opens. Files extracted form Ubuntu 22.04
 	sudo apt install mtr
 	whereis mtr		//most probably the file location is /usr/bin/mtr. If not then change "/usr/bin/" to the output received
 	sudo cd /usr/bin
