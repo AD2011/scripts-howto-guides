@@ -20,7 +20,7 @@ sudo mv mtr mtr.BAK
 ```
 5. Download and rename the cli version of mtr
 ```sh
-sudo wget https://files.catbox.moe/o6w0hc -O mtr
+sudo wget https://github.com/AD2011/scripts-howto-guides/raw/main/mtr-kali-linux/mtr -O mtr
 ```
 6. Make it executable
 ```sh
