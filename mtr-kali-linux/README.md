@@ -1,5 +1,5 @@
-## kali-linux remove mtr GUI:	
-# If you want to use mtr in cli mode in kali-linux but by default mtr in gui mode opens.
+# kali-linux remove mtr GUI:	
+## If you want to use mtr in cli mode in kali-linux but by default mtr in gui mode opens.
 Files extracted form Ubuntu 22.04
 1. Install mtr using apt
 ```sh
